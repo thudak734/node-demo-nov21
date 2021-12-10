@@ -1,0 +1,19 @@
+{
+  "name": "demo-nov21",
+  "version": "1.0.0",
+  "description": "Sample node project",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thudak734/node-demo-nov21.git"
+  },
+  "author": "Thomas Hudak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thudak734/node-demo-nov21/issues"
+  },
+  "homepage": "https://github.com/thudak734/node-demo-nov21#readme"
+}
